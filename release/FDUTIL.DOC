@@ -1,0 +1,31 @@
+          Olf Software programs: File&Directory Utilities.
+
+To know all  programs  syntax,  type:  Prog_Name  /H  at  the  DOS 
+prompt. To contact us, write to:
+
+
+(maj du 03/01/2025 : adresse postale de l'epoque retiree du fichier, me contacter depuis https://developpeur-pascal.fr ou https://olfsoftware.fr pour toute question)
+
+__________________________________________________________________
+
+* File&Directory Attribut: (1.0, 09/01/1991)
+     This program change files and directories attribut.  Be  very 
+     precausious in changing  directories  attribut,  it  will  be 
+     definitiv ! You can make hidden directories...
+
+* File&Directory Copy: (1.0, 09/09/1991)
+     This program copy  all  files  and  directories  as  the  DOS 
+     command xcopy.
+* File&Directory Copy: (1.1, 06/11/1991)
+     You can now copy files and directories  from  a  disk  to  an
+     other.
+
+* File&Directory Move: (1.0, 09/01/1991)
+     This program copy and erase all files  and  directories.  You 
+     can move for example your DOS directory to c:\sys\dos.
+
+* File&Directory Rename: (1.0, 09/01/1991)
+     This program renames  files  and  directories.  (as  the  DOS 
+     rename, but DOS can not rename directories...)
+__________________________________________________________________
+
